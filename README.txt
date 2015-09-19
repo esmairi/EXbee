@@ -1,6 +1,6 @@
-=========
-XBee
-=========
+============
+XBee Zigbee
+============
 
 XBee provides an implementation of the Zigbee for XBee serial communication API , this 
 is the first version v1.0 , it support the frame types (Zigbee) : 
