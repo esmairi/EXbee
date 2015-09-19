@@ -1,8 +1,8 @@
 ============
-XBee Zigbee
+Xbee Zigbee
 ============
 
-XBee provides an implementation of the Zigbee for XBee serial communication API , this 
+EXbee provides an implementation of the Zigbee for XBee serial communication API , this 
 is the first version v1.0 , it support the frame types (Zigbee) : 
   1- 0x10  Transmit Request
   2- 0x8b  Transmit Status
